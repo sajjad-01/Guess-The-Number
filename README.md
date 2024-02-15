@@ -13,5 +13,8 @@ This is a simple number guessing game implemented in JavaScript, HTML, and CSS. 
 - `style.css`: The CSS file for styling the game interface.
 - `script.js`: The JavaScript file containing the game logic.
 
+![image](https://github.com/sajjad-01/Guess-The-Number/assets/128571422/769e26ec-2fef-4a2e-9d13-5e22c2f7eec1)
+
+
 ## Credits
 This project was created by Sajjad Saiyed. Feel free to modify and improve it as you like!
